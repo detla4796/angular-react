@@ -1,0 +1,21 @@
+.card {
+  max-width: 360px;
+  margin: 40px auto;
+  padding: 24px;
+  background: #f1f8f1;
+  border: 2px solid #479647;
+  border-radius: 12px;
+}
+
+h1 {
+  color: #479647;
+}
+
+button {
+  padding: 8px 16px;
+  background: #479647;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
